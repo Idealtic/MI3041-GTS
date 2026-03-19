@@ -16,7 +16,7 @@ This is an updated version of the original code of K1m1nonawa4869 (Vũ Quang Vin
 
 The code is still being updated and refined.
 
-## Original readme by K1m1nonawa4869 (Vũ Quang Vinh)
+## Original readme
 
 A place for my appromixation number method (using AI Agent of course).
 
