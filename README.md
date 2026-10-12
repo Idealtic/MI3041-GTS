@@ -1,5 +1,8 @@
 # MI3041 - Numerical Analysis (Giải tích số)
 
+> [!WARNING]
+> Dự án đã cũ và không còn được cập nhật, hiện đã chuyển sang [https://github.com/Idealtic/MI3041-code](MI3041-code).
+
 ## Vietnamese
 Đây là bản update từ code gốc của K1m1nonawa4869 (Vũ Quang Vinh) với một số thay đổi:
 - Thay đổi một số chỗ từ tiếng Anh sang tiếng Việt.
